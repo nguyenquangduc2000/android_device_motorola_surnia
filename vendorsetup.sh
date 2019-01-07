@@ -1,0 +1,3 @@
+add_lunch_combo aosp_surnia-eng
+add_lunch_combo aosp_surnia-user
+add_lunch_combo aosp_surnia-userdebug
